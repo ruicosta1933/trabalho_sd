@@ -21,9 +21,9 @@ public class startMenu {
 
             switch (choice) {
                 case 1:
-                    register.register();
+                    Register.register();
                 case 2:
-                    login.login();
+                    Login.login();
                 case 3:
                     System.out.println("Exit");
                     break;

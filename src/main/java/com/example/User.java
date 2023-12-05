@@ -18,8 +18,11 @@ public class User {
 
     private List<Channel> channels = new ArrayList<>();
 
-    public User() {
+    public User(String name, String email, String password, String profile) {
         this.id = generateUniqueId();
+        this.name = name;
+        this.password = password;
+        this.profile = profile;
     }
 
     private String generateUniqueId() {

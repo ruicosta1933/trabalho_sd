@@ -7,6 +7,7 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.example.User;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
@@ -17,7 +18,7 @@ public class SaveJsonToFile {
             gson.toJson(list, writer);
             System.out.println("Registros salvos em " + fileName);
         } catch (IOException e) {
-            e.printStackTrace();
+            System.out.println("Error saving JSON to file: " + e.getMessage());
         }
     }
 
@@ -31,8 +32,11 @@ public class SaveJsonToFile {
             Gson gson = new Gson();
             return gson.fromJson(reader, type);
         } catch (IOException e) {
+            // Trate a exceção de maneira apropriada ao seu aplicativo
             e.printStackTrace();
+            // Retorna uma lista vazia ou lança uma exceção, dependendo do seu caso de uso
             return new ArrayList<>();
         }
     }
+
 }

@@ -1,10 +1,195 @@
 [
   {
-    "id": "20231201120713679",
-    "name": "rica",
-    "password": "123",
+    "id": "1",
+    "name": "Rui",
+    "password": "password",
+    "email": "email@gmail.com",
     "profile": "Soldier",
     "inbox": [],
     "channels": []
-  }
+  },
+
+  {
+    "id": "2",
+    "name": "Maria",
+    "password": "senha123",
+    "email": "maria@gmail.com",
+    "profile": "General",
+    "inbox": [],
+    "channels": []
+  },
+
+  {
+    "id": "3",
+    "name": "João",
+    "password": "senha456",
+    "email": "joao@gmail.com",
+    "profile": "Sergeant",
+    "inbox": [],
+    "channels": []
+  },
+
+  {
+    "id": "4",
+    "name": "Ana",
+    "password": "senha789",
+    "email": "ana@gmail.com",
+    "profile": "General",
+    "inbox": [],
+    "channels": []
+  },
+
+  {
+    "id": "5",
+    "name": "Carlos",
+    "password": "senhaabc",
+    "email": "carlos@gmail.com",
+    "profile": "Sergeant",
+    "inbox": [],
+    "channels": []
+  },
+
+  {
+    "id": "6",
+    "name": "Mariana",
+    "password": "senhaXYZ",
+    "email": "mariana@gmail.com",
+    "profile": "Engineer",
+    "inbox": [],
+    "channels": []
+  },
+
+  {
+    "id": "7",
+    "name": "Pedro",
+    "password": "senha123xyz",
+    "email": "pedro@gmail.com",
+    "profile": "Sergeant",
+    "inbox": [],
+    "channels": []
+  },
+
+    {
+      "id": "8",
+      "name": "Isabela",
+      "password": "senhaIsa",
+      "email": "isabela@gmail.com",
+      "profile": "Engineer",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "9",
+      "name": "Lucas",
+      "password": "senhaLucas",
+      "email": "lucas@gmail.com",
+      "profile": "General",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "10",
+      "name": "Gabriela",
+      "password": "senhaGabi",
+      "email": "gabriela@gmail.com",
+      "profile": "General",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "11",
+      "name": "Fernando",
+      "password": "senhaFer",
+      "email": "fernando@gmail.com",
+      "profile": "Sergeant",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "12",
+      "name": "Amanda",
+      "password": "senhaAmanda",
+      "email": "amanda@gmail.com",
+      "profile": "General",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "13",
+      "name": "Rodrigo",
+      "password": "senhaRodrigo",
+      "email": "rodrigo@gmail.com",
+      "profile": "Sergeant",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "14",
+      "name": "Camila",
+      "password": "senhaCamila",
+      "email": "camila@gmail.com",
+      "profile": "Soldier",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "15",
+      "name": "Henrique",
+      "password": "senhaHenrique",
+      "email": "henrique@gmail.com",
+      "profile": "Engineer",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "16",
+      "name": "Larissa",
+      "password": "senhaLarissa",
+      "email": "larissa@gmail.com",
+      "profile": "General",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "17",
+      "name": "Eduardo",
+      "password": "senhaEduardo",
+      "email": "eduardo@gmail.com",
+      "profile": "Sergeant",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "18",
+      "name": "Patrícia",
+      "password": "senhaPatricia",
+      "email": "patricia@gmail.com",
+      "profile": "Engineer",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "19",
+      "name": "Ricardo",
+      "password": "senhaRicardo",
+      "email": "ricardo@gmail.com",
+      "profile": "Sergeant",
+      "inbox": [],
+      "channels": []
+    },
+    {
+      "id": "20",
+      "name": "Tatiane",
+      "password": "senhaTatiane",
+      "email": "tatiane@gmail.com",
+      "profile": "General",
+      "inbox": [],
+      "channels": []
+    }
+  ]
+
+
+
+
+
 ]
